@@ -7,7 +7,8 @@
 |[History](#history)                |
 |[Assignment](#assignment)          |
 |[Requirements](#requirements)      |
-|[File Structure](#structure)       |
+|[Figit@github.com:rachkras/vfa-deploy-on-day-1-vfa-2018.git
+le Structure](#structure)       |
 |[Getting Started](#getting-started)|
 |[Next Steps](#next-steps)          |
 |[Final Steps](#final-steps)        |
